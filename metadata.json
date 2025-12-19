@@ -1,0 +1,7 @@
+{
+  "name": "Happy Birthday WebGL - 24th Anniversary",
+  "description": "A high-performance 3D birthday experience featuring 5,000+ particles, hand gesture recognition, and an interactive photo nebula.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
