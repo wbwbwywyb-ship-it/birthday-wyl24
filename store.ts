@@ -14,9 +14,24 @@ import { AppPhase, PhotoData, GestureType } from './types';
  */
 const DEFAULT_PHOTOS: PhotoData[] = [
   // 在这里填入你的照片 URL
-  // { id: "1", url: "https://files.catbox.moe/xxxxxx/photo1.jpg" },
-  // { id: "2", url: "https://files.catbox.moe/xxxxxx/photo2.jpg" },
-  // { id: "3", url: "https://files.catbox.moe/xxxxxx/photo3.jpg" },
+  // { id: "1", url: "https://files.catbox.moe/plbkz8.jpg" },
+  // { id: "2", url: "https://files.catbox.moe/uqahsn.jpg" },
+  // { id: "3", url: "https://files.catbox.moe/ax8496.jpg" },
+  // { id: "4", url: "https://files.catbox.moe/foruys.jpg" },
+  // { id: "5", url: "https://files.catbox.moe/q5lt9y.jpg" },
+  // { id: "6", url: "https://files.catbox.moe/3hakb4.jpg" },
+  // { id: "7", url: "https://files.catbox.moe/pencw1.jpg" },
+  // { id: "8", url: "https://files.catbox.moe/wyd56n.jpg" },
+  // { id: "9", url: "https://files.catbox.moe/bqounx.jpg" },
+  // { id: "10", url: "https://files.catbox.moe/kjmeua.jpg" },
+  // { id: "11", url: "https://files.catbox.moe/krv1v7.jpg" },
+  // { id: "12", url: "https://files.catbox.moe/9tzhsm.jpg" },
+  // { id: "13", url: "https://files.catbox.moe/pzogtm.jpg" },
+  // { id: "14", url: "https://files.catbox.moe/zlmdrf.jpg" },
+  // { id: "15", url: "https://files.catbox.moe/isrbe1.jpg" },
+  // { id: "16", url: "https://files.catbox.moe/ixo81r.jpg" },
+  // { id: "17", url: "https://files.catbox.moe/8v9nvm.jpg" },
+  // { id: "18", url: "https://files.catbox.moe/7dh1qp.jpg" },
   // 删除以上注释，填入真实 URL 即可
 ];
 
