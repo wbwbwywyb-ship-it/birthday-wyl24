@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // Change this to your repository name if deploying to GitHub Pages
-  // base: '/birthday-webwyl24/',
+  // base: '/birthday-wyl24/',
   base: './',
   build: {
     outDir: 'dist',
